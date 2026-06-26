@@ -1,6 +1,6 @@
-# SQLLLM
+# Natural Language to Charts (NLTC)
 
-SQLLLM is a Streamlit application that turns natural-language questions into MySQL queries, runs them against your database, and visualizes the result with Plotly.
+NLTC is a Streamlit application that turns natural-language questions into MySQL queries, runs them against your database, and visualizes the result with Plotly.
 
 ## Features
 

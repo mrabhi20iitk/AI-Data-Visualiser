@@ -1,0 +1,5 @@
+sqlllm/
+.env
+SQLLLM.ipynb
+SQLLLMS.ipynb
+.DS_Store

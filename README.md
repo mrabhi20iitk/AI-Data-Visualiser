@@ -128,6 +128,3 @@ Show revenue by movie categories
 - The model is configured in `llm/llm.py`.
 - The current app expects the LLM response to be valid JSON.
 
-## License
-
-Add your license information here.
